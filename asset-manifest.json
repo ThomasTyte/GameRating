@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GameRating/static/css/main.4f0215f0.css",
-    "main.js": "/GameRating/static/js/main.da70cd83.js",
+    "main.js": "/GameRating/static/js/main.24befb47.js",
     "static/js/488.ded34022.chunk.js": "/GameRating/static/js/488.ded34022.chunk.js",
     "index.html": "/GameRating/index.html",
     "main.4f0215f0.css.map": "/GameRating/static/css/main.4f0215f0.css.map",
-    "main.da70cd83.js.map": "/GameRating/static/js/main.da70cd83.js.map",
+    "main.24befb47.js.map": "/GameRating/static/js/main.24befb47.js.map",
     "488.ded34022.chunk.js.map": "/GameRating/static/js/488.ded34022.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f0215f0.css",
-    "static/js/main.da70cd83.js"
+    "static/js/main.24befb47.js"
   ]
 }
