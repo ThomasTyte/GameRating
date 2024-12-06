@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GameRating/static/css/main.4f0215f0.css",
+    "main.js": "/GameRating/static/js/main.1c1d304d.js",
+    "static/js/488.ded34022.chunk.js": "/GameRating/static/js/488.ded34022.chunk.js",
+    "index.html": "/GameRating/index.html",
+    "main.4f0215f0.css.map": "/GameRating/static/css/main.4f0215f0.css.map",
+    "main.1c1d304d.js.map": "/GameRating/static/js/main.1c1d304d.js.map",
+    "488.ded34022.chunk.js.map": "/GameRating/static/js/488.ded34022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0215f0.css",
+    "static/js/main.1c1d304d.js"
+  ]
+}
