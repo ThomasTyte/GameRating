@@ -33,7 +33,7 @@ Welcome to my Game Rating App! This project allows users to easily rate their fa
 
 Thank you for checking out my project! Your feedback and suggestions are always welcome.
 
-User Stories
+## User Stories
 
 User Story 1: As a user, I want to quickly navigate between the contact form and the to-do list so that I can easily access the feature I want to use without fussing around with menus.
 
@@ -41,13 +41,13 @@ User Story 2: As a user, I want to be able to rate games from a provided list so
 
 User Story 3: As a user, I want to submit my contact information and comments through a form so that I can provide feedback or ask questions to the app's developers.
 
-Wire Frame:
+## Wire Frame:
 
 ![Screenshot 2024-12-02 191438](https://github.com/user-attachments/assets/4e150628-9dce-4deb-a55e-a300a131efb1)
 ![Screenshot 2024-12-02 191453](https://github.com/user-attachments/assets/578f39bb-b06a-4bda-91ca-2b32e8810ed3)
 ![tomsapp mobile view](https://github.com/user-attachments/assets/fe4c191c-8bb5-49a8-b126-1d376933b4ce)
 
-App State Tree
+## App State Tree
 ├── showContact (boolean)
 └── TodoList State
 ├── ratedGames (array)
@@ -65,7 +65,7 @@ Contact Form State
 ├── email (string)
 └── comments (string)
 
-List of Container and Presentational Components
+## List of Container and Presentational Components
 Container Components:
 
 App (Manages the visibility of other components)
@@ -78,3 +78,6 @@ GameCard (Displays individual game details and rating options)
 ContactForm (Renders form fields for user input)
 RatingButton (For individual ratings on games if separated)
 This structure will enable clear separation of concerns, where containers handle the logic and state, and presentational components focus on rendering UI elements.
+
+## Installation 
+npm install
